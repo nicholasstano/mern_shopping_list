@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'https://evening-earth-90513.herokuapp.com'
+    mongoURI: 'mongodb://127.0.0.1:27017/mern_shopping'
 }
